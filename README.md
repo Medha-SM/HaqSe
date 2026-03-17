@@ -1,73 +1,55 @@
-# Welcome to your Lovable project
+# HaqSe — Reclaim Your Financial Legacy
 
-## Project info
+> **“HaqSe — helping you claim what is rightfully yours.”**
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+## 📖 What is HaqSe?
 
-## How can I edit this code?
+HaqSe is a fintech platform that helps families **discover and recover dormant financial assets** of deceased relatives through a simple, guided digital workflow. 
 
-There are several ways of editing your application.
+Over **₹78,000 crore** in India remains unclaimed due to a lack of awareness and complex processes. HaqSe bridges this gap by making discovery and claiming accessible and straightforward.
 
-**Use Lovable**
+---
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+## ⚙️ How It Works
 
-Changes made via Lovable will be committed automatically to this repo.
+1. **Select Role:** Choose between User (claimant) or Institution (bank).
+2. **Enter PAN:** Instantly discover dormant assets linked to the deceased.
+3. **View Total Assets:** See a unified amount of unclaimed funds across various institutions.
+4. **Explore Breakdown:** View specific assets across entities like SBI, HDFC, Post Office, etc.
+5. **AI Legal Assistant:** Get step-by-step guidance through the legal claim process.
+6. **Generate Documents:** Automatically create a complete, ready-to-submit claim docket.
+7. **Institution Dashboard:** Banks and institutions can review, verify, and process claims efficiently.
 
-**Use your preferred IDE**
+---
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🧠 Key Features
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+* 🔍 **Unified Asset Discovery:** Find scattered assets in one place.
+* 🤖 **AI Legal Assistant:** RAG-based AI to answer legal queries and guide the process.
+* 📄 **Automated Document Generation:** Auto-fill and generate PDFs using ReportLab.
+* 🏦 **Role-Based System:** Tailored interfaces for both retail users and financial institutions.
+* 🔐 **Blockchain Verification:** *(Optional)* Secure and immutable verification of claims.
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 🛠️ Tech Stack
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+* **Frontend:** React, TypeScript, Tailwind CSS
+* **Backend:** FastAPI
+* **AI & Search:** LangChain, LLMs, FAISS (Vector DB)
+* **Utilities:** ReportLab (PDF Generation)
 
-# Step 3: Install the necessary dependencies.
-npm i
+---
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+## 🎯 Impact
 
-**Edit a file directly in GitHub**
+* **Improves Accessibility:** Makes financial recovery services accessible to the average citizen.
+* **Simplifies Complexity:** Breaks down intimidating legal workflows into manageable steps.
+* **Empowers Families:** Helps heirs recover rightful assets that would otherwise sit dormant.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## 👥 Target Users
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+* **Retail Customers:** Families, heirs, and legal representatives.
+* **Financial Institutions:** Banks, post offices, and insurance companies handling dormant accounts.
