@@ -2,7 +2,7 @@
 
 > **“HaqSe — helping you claim what is rightfully yours.”**
 
-## 📖 What is HaqSe?
+##  What is HaqSe?
 
 HaqSe is a fintech platform that helps families **discover and recover dormant financial assets** of deceased relatives through a simple, guided digital workflow. 
 
@@ -10,7 +10,7 @@ Over **₹78,000 crore** in India remains unclaimed due to a lack of awareness a
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 1. **Select Role:** Choose between User (claimant) or Institution (bank).
 2. **Enter PAN:** Instantly discover dormant assets linked to the deceased.
@@ -22,13 +22,13 @@ Over **₹78,000 crore** in India remains unclaimed due to a lack of awareness a
 
 ---
 
-## 🧠 Key Features
+##  Key Features
 
-* 🔍 **Unified Asset Discovery:** Find scattered assets in one place.
-* 🤖 **AI Legal Assistant:** RAG-based AI to answer legal queries and guide the process.
-* 📄 **Automated Document Generation:** Auto-fill and generate PDFs using ReportLab.
-* 🏦 **Role-Based System:** Tailored interfaces for both retail users and financial institutions.
-* 🔐 **Blockchain Verification:** *(Optional)* Secure and immutable verification of claims.
+*  **Unified Asset Discovery:** Find scattered assets in one place.
+*  **AI Legal Assistant:** RAG-based AI to answer legal queries and guide the process.
+*  **Automated Document Generation:** Auto-fill and generate PDFs using ReportLab.
+*  **Role-Based System:** Tailored interfaces for both retail users and financial institutions.
+*  **Blockchain Verification:** *(Optional)* Secure and immutable verification of claims.
 
 ---
 
@@ -41,7 +41,7 @@ Over **₹78,000 crore** in India remains unclaimed due to a lack of awareness a
 
 ---
 
-## 🎯 Impact
+##  Impact
 
 * **Improves Accessibility:** Makes financial recovery services accessible to the average citizen.
 * **Simplifies Complexity:** Breaks down intimidating legal workflows into manageable steps.
@@ -49,7 +49,7 @@ Over **₹78,000 crore** in India remains unclaimed due to a lack of awareness a
 
 ---
 
-## 👥 Target Users
+##  Target Users
 
 * **Retail Customers:** Families, heirs, and legal representatives.
 * **Financial Institutions:** Banks, post offices, and insurance companies handling dormant accounts.
