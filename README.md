@@ -32,7 +32,7 @@ Over **₹78,000 crore** in India remains unclaimed due to a lack of awareness a
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Frontend:** React, TypeScript, Tailwind CSS
 * **Backend:** FastAPI
